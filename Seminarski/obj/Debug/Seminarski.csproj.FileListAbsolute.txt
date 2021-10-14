@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\bin\Debug\Seminarski.exe.config
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\bin\Debug\Seminarski.exe
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\bin\Debug\Seminarski.pdb
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.Properties.Resources.resources
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.exe
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.pdb
+C:\Users\Asus\Desktop\Faks\VI semestar\Grafika\Seminarski\obj\Debug\Seminarski.Forma.resources
